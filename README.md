@@ -18,13 +18,13 @@ Descubre cómo luce el sistema con estas capturas de pantalla:
 ![Pantalla de Login](screenshots/LOGIN-LATAM.png)
 
 ### Gestión de Pasajeros
-![Gestión de Pasajeros](screenshots/ADMINISTRACION_PASAJERO.png)
+![Gestión de Pasajeros](screenshots/DASH-ADMIN_PASAJERO.png)
 
-### Asignación de Asientos
-![Asignación de Asientos](screenshots/ASIGNAR_PASAJERO-PAX.png)
+### Panel de control de vuelos
+![Inicio Panel de control](screenshots/INIT-PAX.png)
 
-### Reportes de Vuelos
-![Reportes de Vuelos](screenshots/VUELOS-REPORTES.png)
+### Reportes
+![Dashboard Reportes](screenshots/DASH-REPORTES.png)
 
 ## 📷 Más Capturas
 Explora más funcionalidades del sistema a continuación:
@@ -33,6 +33,7 @@ Explora más funcionalidades del sistema a continuación:
 <summary>Gestión de Pasajeros y Servicios</summary>
 
 - ![Asignación de Tripulación](screenshots/ASIGNAR_T-PAX.png)
+- ![Asignación de Asientos](screenshots/ASIGNAR_PASAJERO-PAX.png)
 - ![Gestión de Alimentos](screenshots/ALIMENTOS-PAX.png)
 - ![Servicios Especiales](screenshots/SERVICIOS-ESPECIALES-GESTIONV.png)
 - ![Maleta 1](screenshots/MALETA_1-ADMIN_PASAJERO.png)
@@ -56,8 +57,9 @@ Explora más funcionalidades del sistema a continuación:
 
 - ![Reporte de Aviones](screenshots/AVIONES-REPORTES.png)
 - ![Reporte de Pasajeros](screenshots/PASAJEROS-REPORTES.png)
+- ![Reportes de Vuelos](screenshots/VUELOS-REPORTES.png)
 - ![Dashboard Gestión de Vuelos](screenshots/DASH-GESTIONV.png)
-- ![Dashboard Reportes](screenshots/DASH-REPORTES.png)
+- ![Dashboard Gestión de Vuelos](screenshots/SERVICIOS-ESPECIALES-GESTIONV.png)
 - ![Elección de Vuelo](screenshots/EV-GESTIONV.png)
 
 </details>
@@ -69,7 +71,6 @@ Explora más funcionalidades del sistema a continuación:
 - ![Verificar Vuelo 2](screenshots/VERIFICAR-VUELO2-PAX.png)
 - ![Verificar Pasajero](screenshots/VERIFICAR_PA-ADMINI_PASAJERO.png)
 - ![Asignar Avión](screenshots/ASIGNAR_PASAJERO-PAX.png)
-- ![Inicio Pasajero](screenshots/INIT-PAX.png)
 
 </details>
 
