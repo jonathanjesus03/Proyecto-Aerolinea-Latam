@@ -125,7 +125,6 @@ cd Proyecto-Aerolinea-Latam
 mvn clean install
 mvn exec:java -Dexec.mainClass="com.mycompany.poo_recovery.POO_RECOVERY"
 ```
-> Nota: Asegúrate de que `com.mycompany.poo_recovery.POO_RECOVERY` sea la clase principal correcta.
 
 ---
 
